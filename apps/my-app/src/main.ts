@@ -3,7 +3,7 @@
  * This is only a minimal backend to get started.
  */
 
-import './instrumentation';
+import './tracing';
 import { Logger } from '@nestjs/common';
 import { NestFactory } from '@nestjs/core';
 
